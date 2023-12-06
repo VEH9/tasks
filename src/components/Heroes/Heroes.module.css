@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    gap: 5px;
+}
+
+.results {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.name {
+    text-align: start;
+}
